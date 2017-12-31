@@ -1,8 +1,8 @@
 {
     "Name": "License Template",
     "Description": "Template to create licences for projects very easily",
-    "Author": "Tamer Tas",
-    "Year": "2015",
+    "Author": "Jeremy Seago",
+    "Year": "2017",
     "License": [
         "Apache Software License 2.0",
         "MIT", 
